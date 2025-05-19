@@ -1,0 +1,4 @@
+this is your age : 18
+this is your name : sas
+Year of birth: 2007
+Eligible to vote: Yes
